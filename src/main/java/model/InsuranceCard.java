@@ -1,5 +1,5 @@
 package model;
-
+import java.util.Date; // Import the Date class from the java.util package
 public class InsuranceCard {
     private String cardNumber; // 10 digits
     private Customer cardHolder;

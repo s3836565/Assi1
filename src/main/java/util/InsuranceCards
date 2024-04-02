@@ -1,0 +1,8 @@
+<insuranceCards>
+    <insuranceCard>
+        <cardNumber>1234567890</cardNumber>
+        <!-- Card holder details -->
+        <expirationDate>2024-04-01</expirationDate>
+    </insuranceCard>
+    <!-- Other insurance cards -->
+</insuranceCards>

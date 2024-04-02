@@ -1,0 +1,23 @@
+<customers>
+    <customer>
+        <id_cus>c1234567</id_cus>
+        <fullName>John Doe</fullName>
+        <insuranceCard>
+            <cardNumber>1234567890</cardNumber>
+            <!-- Card holder details -->
+            <expirationDate>2024-04-01</expirationDate>
+        </insuranceCard>
+        <!-- List of claims -->
+    </customer>
+    <customer>
+        <id_cus>c2345678</id_cus>
+        <fullName>Jane Smith</fullName>
+        <insuranceCard>
+            <cardNumber>0987654321</cardNumber>
+            <!-- Card holder details -->
+            <expirationDate>2024-05-01</expirationDate>
+        </insuranceCard>
+        <!-- List of claims -->
+    </customer>
+    <!-- Other customers -->
+</customers>

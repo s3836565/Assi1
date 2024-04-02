@@ -1,0 +1,9 @@
+<claims>
+    <claim>
+        <id>f1234567890</id>
+        <!-- Claim details -->
+        <status>New</status>
+        <!-- Receiver Banking Info -->
+    </claim>
+    <!-- Other claims -->
+</claims>
